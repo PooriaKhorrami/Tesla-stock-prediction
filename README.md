@@ -7,7 +7,7 @@ A machine learning project that predicts Tesla stock prices using technical indi
 This project analyzes Tesla stock data from 2010-2021 to predict future stock prices using machine learning techniques.
 The goal is to demonstrate practical ML skills applied to financial time series data while maintaining realistic expectations about model performance.
 
-## 📊 Key Results
+## Key Results
 
 | Model | R² Score | RMSE | Performance |
 |-------|----------|------|-------------|
@@ -25,7 +25,7 @@ The goal is to demonstrate practical ML skills applied to financial time series 
 - **Feature Engineering**: Technical indicators provide meaningful predictive signal
 - **Market Volatility**: Financial markets are complex and partially unpredictable by nature
 
-## 🛠️ Technical Features Created
+## Technical Features Created
 
 - **Moving Averages**: 5-day and 20-day moving averages
 - **Price Momentum**: Daily and 5-day price change percentages
@@ -33,7 +33,7 @@ The goal is to demonstrate practical ML skills applied to financial time series 
 - **Volume Analysis**: Volume ratio and moving average
 - **Price Spread**: High-low price spread normalized by closing price
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Python 3.11**
 - **pandas** - Data manipulation and analysis
@@ -59,7 +59,7 @@ python tesla_analysis.py
    - Actual vs predicted price plots
    - Trading signal visualizations
 
-## 📈 Sample Output
+## Sample Output
 
 ```
 Tesla Stock ML Analysis
@@ -75,7 +75,7 @@ Random Forest: RMSE=$66.81, R²=0.4895
 ✓ Analysis complete!
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tesla-stock-prediction/
@@ -92,7 +92,7 @@ tesla-stock-prediction/
 4. **Trading Signals** - Price chart with buy/sell recommendations
 5. **Prediction Timeline** - Time series plot of actual vs predicted prices
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
