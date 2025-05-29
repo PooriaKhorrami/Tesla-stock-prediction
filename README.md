@@ -50,7 +50,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 2. **Run the Analysis**:
 ```bash
-python tesla_analysis.py
+python tesla_prediction.py
 ```
 
 3. **View Results**:
