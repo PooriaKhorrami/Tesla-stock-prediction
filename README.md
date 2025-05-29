@@ -79,7 +79,7 @@ Random Forest: RMSE=$66.81, R²=0.4895
 
 ```
 tesla-stock-prediction/
-├── tesla_analysis.py    # Main ML pipeline
+├── tesla_prediction.py    # Main ML pipeline
 ├── Tesla.csv           # Historical stock data
 └── README.md          # Project documentation
 ```
